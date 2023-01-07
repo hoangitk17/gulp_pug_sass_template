@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+
+
+
+@import "../base.scss";
+h2 {
+  color: blue;
+}
+
+
+
+
+
+p {
+  color: yellowgreen;
+  display: flex;
+}
+
+::placeholder {
+  color: gray;
+}
